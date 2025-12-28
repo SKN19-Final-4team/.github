@@ -1,7 +1,7 @@
 # Git Convention Guide
 
 GitHub Organizations 내 모든 프로젝트에서
-Issue 및 Pull Request 작성 시 동일한 컨벤션과 템플릿을 적용
+Issue 및 Pull Request 작성 시 동일한 컨벤션과 템플릿을 자동 적용
 
 ## 생성된 이슈 기반 개발 및 PR 요청 절차
 ### step 1. 이슈 생성하기
