@@ -5,6 +5,9 @@ Issue 및 Pull Request 작성 시 동일한 컨벤션과 템플릿을 자동 적
 
 ## 생성된 이슈 기반 개발 및 PR 요청 절차
 ### step 1. 이슈 생성하기
+
+    이슈 생성 시 Assignee(담당자), Label(분류), IssueType(유형) 선택
+
 ### step 2. 이슈 번호를 이용하여 브랜치 생성
     
 ```bash
